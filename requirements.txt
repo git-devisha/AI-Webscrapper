@@ -5,3 +5,4 @@ requests
 pandas
 openai
 beautifulsoup4
+newspaper3k
