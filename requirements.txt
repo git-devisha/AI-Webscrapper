@@ -1,0 +1,7 @@
+llama-index==0.10.28
+langchain==0.1.14
+streamlit
+requests
+pandas
+openai
+beautifulsoup4
